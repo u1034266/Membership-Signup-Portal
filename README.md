@@ -1,10 +1,11 @@
 # Simple Membership Signup Portal with Laravel 5.4
 This membership portal was created using Laravel 5.4
-Author: David Tekwie <tekwie.david@gmail.com>
-Date: 15/03/2017
+
+- Author: David Tekwie <tekwie.david@gmail.com>
+- Date: 15/03/2017
 
 ## Disclaimer
-This membership portal was created with the sole intent for public sharing. No part of this code-base is harmful to anyone, nor designed with malicious intent. You are therefore free to copy, contribute to and / or share as you please at your own risk. The original author of this blog will not be resposible for any software, system, personal damages or loss of business damages that may occur from choosing to copy this code.
+This membership portal was created with the sole intent for public sharing. No part of this code-base is harmful to anyone, nor designed with malicious intent. You are therefore free to copy, contribute to and / or share as you please at your own risk. The original author will not be resposible for any software, system, personal damages or loss of business damages that may occur from choosing to copy this code.
 As long as you are having fun with Laravel, enjoy!!
 
 ## Installation
@@ -40,7 +41,7 @@ DB_PASSWORD=#password#
 ### Admin / Logged-in Users:
 - Can do all the above.
 - Can view **All** membership details of all members
-- Can *manage blogs*. They have the rights to:
+- Can *manage members*. They have the rights to:
   - **Edit** member's details
   - **Delete** a member
 
